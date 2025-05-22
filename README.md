@@ -41,3 +41,7 @@ NumPy, Pandas (data handling)
 Matplotlib, Seaborn (visualizations)
 
 Scikit-learn (metrics)
+![IMG-20250522-WA0015](https://github.com/user-attachments/assets/bbf8b539-f704-4628-9cf2-0c896e57bb46)
+![IMG-20250522-WA0016](https://github.com/user-attachments/assets/a8757a5c-a254-478d-a8dd-09b165bcbf12)
+
+![IMG-20250522-WA0014](https://github.com/user-attachments/assets/0a583614-f92e-4a1d-bff9-f81fd63de3be)
